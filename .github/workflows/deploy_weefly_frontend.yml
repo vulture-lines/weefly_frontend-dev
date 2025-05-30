@@ -1,4 +1,4 @@
-name: Deploy LMS Frontend
+name: Deploy Weefly Frontend
 
 on:
   push:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
+    - name: Checkout repository
       uses: actions/checkout@v3
 
     - name: Setup Node.js
@@ -24,20 +24,20 @@ jobs:
     - name: Build frontend
       run: npm run build
 
-    - name: Ensure remote folder & fix permissions
+    - name: Clean and prepare remote folder
       uses: appleboy/ssh-action@v0.1.10
       with:
         host: ${{ secrets.EC2_HOST }}
         username: ${{ secrets.EC2_USERNAME }}
         key: ${{ secrets.EC2_SSH_KEY }}
         script: |
-          echo "Creating target folder if it doesn't exist..."
-          sudo mkdir -p /var/www/html/weefly_frontend
-          sudo rm -rf /var/www/html/weefly_frontend/*
-          sudo chown -R ${{ secrets.EC2_USERNAME }}:www-data /var/www/html/weefly_frontend
-          sudo chmod -R 775 /var/www/html/weefly_frontend
+          echo "Cleaning /var/www/html/weefly_front..."
+          sudo rm -rf /var/www/html/weefly_front
+          sudo mkdir -p /var/www/html/weefly_front
+          sudo chown -R ${{ secrets.EC2_USERNAME }}:www-data /var/www/html/weefly_front
+          sudo chmod -R 775 /var/www/html/weefly_front
 
-    - name: Deploy to remote server
+    - name: Deploy built files to remote server
       uses: appleboy/scp-action@v0.1.7
       with:
         host: ${{ secrets.EC2_HOST }}
