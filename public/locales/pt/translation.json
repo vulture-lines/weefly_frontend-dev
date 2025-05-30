@@ -1,0 +1,337 @@
+{
+  "greeting": "pt welcome",
+  "navbar": {
+    "home": "Início",
+    "news": "Notícias",
+    "contactus": "Fale Conosco",
+    "aboutus": "Sobre Nós",
+    "services": "Serviços",
+    "media": "Mídia",
+    "login/register": "Entrar/Registrar",
+    "signin": "Entrar",
+    "logout": "Sair"
+   
+
+  },
+  "hero": {
+    "title": "Transformar as viagens em África",
+    "description": "Opções de pagamento local sem complicações com os preços mais baixos!",
+    "bookNow": "Reserve já a sua viagem!",
+    "leaving": "Saindo de",
+    "going": "Vou",
+    "dateForm": "Formulário de data",
+    "dateReturn": "Data de Devolução",
+    "class": {
+      "class1": "Economy",
+      "class2": "Premium",
+      "class3": "Business",
+      "class4": "primeiro"
+    },
+    "travaler-type": {
+      "type1": "Adulto",
+      "type2": "Criança"
+    },
+    "search": "procurar"
+  },
+  "service": {
+    "heading": "Serviços oferecidos",
+    "subHeading": "Explore África com facilidade",
+    "description": "Reserve voos, hotéis, carros, comboios e eventos, quer seja em trabalho ou em lazer.",
+    "offer": {
+      "tours": "Excursões",
+      "events": "Eventos",
+      "lastminute": "Último minuto",
+      "visa": "Visto"
+    },
+    "services": {
+      "concierge": {
+        "title": "Porteiro",
+        "description": "Assistência personalizada a qualquer hora, em qualquer lugar, simplificando o seu estilo de vida. Troca de dinheiro Câmbio de moeda rápido, seguro e fiável para transações globais."
+      },
+      "moneyexchange": {
+        "title": "Troca de dinheiro",
+        "description": "Câmbio de moeda rápido, seguro e fiável para transações globais."
+      },
+      "esim": {
+        "title": "E-sim / Internet",
+        "description": "Mantenha-se ligado globalmente com a Internet eSIM instantânea - rápida, segura e fiável."
+      },
+      "luggage": {
+        "title": "Bagagem extra",
+        "description": "Transporte mais facilmente uma bagagem extra acessível para a sua viagem."
+      }
+    }
+  },
+  "payment-section": {
+    "title": "Desfrute de opções de pagamento seguras e flexíveis",
+    "description": "Tornamos o pagamento da sua viagem fácil e sem stress. Escolha entre uma vasta gama de métodos de pagamento locais e internacionais de confiança, bem como cartões de débito/crédito."
+  },
+  "news": {
+    "feature": "notícias em destaque",
+    "view": "ver mais",
+    "title": {
+      "line1": "Todas as suas viagens africanas",
+      "line2": "necessidades em uma plataforma!"
+    }
+  },
+  "ai-section": {
+    "coming-soon": "Em breve",
+    "heading": "WEEFLY TRAVEL AI",
+    "subHeading": "O seu companheiro de viagem",
+    "button": "Saiba mais"
+  },
+  "contactUs-section": {
+    "heading": "Faça parte do africano",
+    "subHeading": "Revolução tecnológica de viagens",
+    "agent": "Tornar-se um agente",
+    "vendor": "Registar como fornecedor",
+    "Partnership": "Candidatar-se a uma parceria",
+    "contact-us": "Contactar-nos",
+    "name": "Nome",
+    "email": "Email",
+    "phone": "Número de Telefone",
+    "business": "negócios",
+    "category": "Categoria",
+    "send": "Enviar",
+    "cancel": "Cancelar"
+  },
+  "media-section": {
+    "heading": "Media",
+    "sideHeading": "Descobrir Cabo Verde"
+  },
+  "story-section": {
+    "heading": "A nossa história",
+    "subheading": "Nascido em África, construído para o mundo",
+    "description": "O que começou como uma ideia simples para tornar as viagens em África mais fáceis, mais inteligentes e mais conectadas, transformou-se agora numa plataforma de reservas poderosa e abrangente. Somos uma equipa de viajantes apaixonados, inovadores tecnológicos e especialistas locais unidos por uma visão partilhada para desvendar a beleza, a cultura e as oportunidades em África através de experiências de viagem simples e convenientes.",
+    "highlight": "Isto é mais do que uma plataforma. É um movimento. Uma celebração de África, construída por africanos, para o mundo.",
+    "button": "Saiba mais"
+  },
+  "subscribe": {
+    "title": "Subscrever para receber ofertas de voos exclusivas e dicas de viagem",
+    "description": "Junte-se à nossa comunidade de viagens e seja o primeiro a saber das promoções relâmpago, dos descontos de última hora e das dicas privilegiadas para tornar a sua viagem mais fácil.",
+    "button": "Subscrever agora"
+  },
+  "footer": {
+    "quick": "Links Rápidos",
+    "links": {
+      "link1": "Início",
+      "link2": "Voos",
+      "link3": "Hotéis",
+      "link4": "Destinos",
+      "link5": "Sobre Nós",
+      "link6": "Fale Conosco"
+    },
+    "topDestination": "Destino Principal",
+    "mobile": "Número de Telefone",
+    "email": "Suporte por Email",
+    "follow": "Siga-nos"
+  },
+   "contactus-page":{
+    "title":"CONTACTE-NOS",
+    "form":{
+      "title":"Apoio ao cliente",
+      "fullname":"Nome completo",
+      "lastname":"Apelido",
+      "email":"Email",
+      "phone":"Número de telefone",
+      "message":"Mensagem",
+      "button":"Enviar agora"
+    },
+    "support":{
+      "title":"Apoio ao cliente",
+      "contact":"Telefone",
+      "email":"Correio eletrónico",
+      "Address":"Endereço"
+    }
+  },
+   "login":{
+    "title":"Iniciar sessão na sua conta",
+    "email":"Endereço de correio eletrónico",
+    "password":"Palavra-passe",
+    "forgotPassword":"Esqueceu-se da palavra-passe?",      
+    "button":"Iniciar sessão agora",
+    "google":"Login with Google",
+    "signup-content":"Não tem uma conta?",
+    "signup":"Registar",
+    "register-content":"Are you a business?",
+    "register":"Register here"
+  },
+  "signup":{
+    "title":"Criar uma conta",
+    "fields":{
+      "name":"Nome",
+      "email":"Criar uma conta",
+      "phone":"Número de telemóvel",
+      "password":"Palavra-passe"
+    },
+    "button":"Registar",
+    "options":{
+      "login-content":"Já tem uma conta?",
+      "login":"Iniciar sessão",
+       "register-content":"Are you a business?",
+    "register":"Register here"
+    }
+  },
+  "forgotPassword": {
+  "title": "Esqueceu-se da palavra-passe?",
+  "description": "Introduza o seu endereço de email registado e enviaremos um link para redefinir a palavra-passe",
+  "email": "Endereço de email",
+  "send": "Enviar código",
+  "resend-msg": "Não recebeu o código?",
+  "resend": "Reenviar"
+},
+  "search":{
+  "leaving": "Saindo de",
+    "going": "Vou",
+    "dateForm": "Formulário de data",
+    "dateReturn": "Data de Devolução",
+    "class": {
+      "class1": "Economy",
+      "class2": "Premium",
+      "class3": "Business",
+      "class4": "primeiro"
+    },
+    "travaler-type": {
+      "type1": "Adulto",
+      "type2": "Criança"
+    },
+    "search": "procurar"
+  },
+  "filter": {
+  "filter": "Filtrar",
+  "class": {
+    "title": "Classe preferida",
+    "class1": "Econômica",
+    "class2": "Premium",
+    "class3": "Executiva",
+    "class4": "Primeira"
+  },
+  "airlines": "Companhias aéreas",
+  "leaving-at": "Partida às",
+  "arrival-to": "Chegada às",
+  "stop": {
+    "title": "Paradas",
+    "non-stop": "Direto",
+    "stop": "Com parada"
+  }
+},
+"recently": {
+  "title": "Reservado recentemente",
+  "departure": "Voo de partida",
+  "reschedule": "Reagendar"
+},
+"complete-your-booking": "Conclua sua reserva",
+"back": "Voltar",
+"stages": {
+  "review-your-booking": "Rever a sua reserva",
+  "traveller-details": "Dados do passageiro",
+  "extras": "Extras",
+  "payment": "Pagamento"
+},
+"booking-card": {
+  "leaving-from": "Saindo de",
+  "returning-from": "Retornando de",
+  "stops": "Paradas",
+  "duration": "Duração",
+  "Flight-details": "Detalhes do voo",
+  "price-details": "Detalhes do preço",
+  "policy": "Política",
+  "refund": "Reembolso",
+  "reschedule": "Reagendar",
+  "book-now": "Reservar agora"
+},
+ "continue-booking": "Continuar reserva",
+  "traveller-details": {
+    "title": "Detalhes do Viajante",
+    "form": {
+      "fullname": "Nome Completo",
+      "lastname": "Apelido",
+      "nationality": "Nacionalidade",
+      "email": "Email",
+      "phone": "Número de Telefone",
+      "passport-number": "Número do Passaporte",
+      "passport-issuing-country": "País emissor do passaporte",
+      "passport-entry": "Entrada do passaporte",
+      "visa-details": "Detalhes do visto",
+      "cancellation-policy": "Política de cancelamento"
+    },
+    "save-details": {
+      "title": "Guarde os seus dados!",
+      "description": "Use os seus dados de contacto para criar uma conta e acelerar futuras reservas. (Não guardaremos as suas informações de pagamento.)",
+      "term": "Guardar os meus dados para poder reservar mais rapidamente da próxima vez."
+    }
+  },
+  "booking-details": {
+    "title": "Detalhes da Reserva",
+    "departure": "Voo de Partida",
+    "landing": "Voo Principal",
+    "policy": "Política",
+    "refund": "Reembolso",
+    "reschedule": "Reagendar"
+  },
+  "seats": {
+    "title": "Lugares",
+    "seatFare": "Tarifa do Lugar",
+    "adult": "Adulto",
+    "child": "Criança",
+    "totalFare": "Tarifa Total",
+    "type": {
+      "title": "Tipo de Lugar",
+      "free": "Gratuito",
+      "non-reclining": "Não reclinável",
+      "exit-seats": "Lugares de saída"
+    }
+  },
+  "meals": {
+    "title": "Refeições",
+    "vegMeal": "Refeição Vegetariana",
+    "nonVegMeal": "Refeição Não Vegetariana",
+    "kidsMeal": "Refeição Infantil",
+    "specialMeal": "Refeição Especial"
+  },
+  "luggages": {
+    "title": "Bagagem extra",
+    "luggage": "Bagagem"
+  },
+  "skip-extra": "Ignorar extras",
+  "summary": {
+    "title": "Resumo de Preços",
+    "adult": "Adulto",
+    "totalTax": "Total de Taxas",
+    "otherCharged": "Outras Taxas",
+    "total": "Total"
+  },
+  "payment-methods": {
+    "upi": "UPI",
+    "debit-creditCard": "Cartões de Débito e Crédito",
+    "netBanking": "Transferência Bancária Online",
+    "wallet": "Carteira Digital",
+    "emi": "Pagamento em prestações",
+    "payLater": "Pagar Mais Tarde"
+  },
+  "paytime": {
+  "title": "Quando gostaria de pagar?",
+  "payNow": "Pagar agora",
+  "payLater": "Pagar mais tarde"
+},
+"profile": {
+  "fullname": "Nome completo",
+  "dob": "Data de nascimento",
+  "gender": "Género",
+  "passportNo": "N.º do passaporte",
+  "fullAddress": "Morada completa",
+  "pinCode": "Código postal"
+},
+"profile-offer": {
+  "title": "Inspire-se para a sua viagem e receba ofertas",
+  "description": "Receba promoções, dicas e informações da Expedia",
+  "button": "Receber agora"
+},
+"options": {
+  "profile": "Perfil",
+  "security-settings": "Segurança e definições",
+  "help-feedback": "Ajuda e comentários",
+  "logout": "Terminar sessão"
+}
+
+}

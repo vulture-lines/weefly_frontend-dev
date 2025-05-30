@@ -1,0 +1,335 @@
+{
+  "greeting": "en welcome",
+
+  "navbar": {
+    "home": "Home",
+    "news": "News",
+    "contactus": "Contact Us",
+    "aboutus": "About Us",
+    "services": "Services",
+    "media": "Media",
+    "login/register": "Login/Register",
+    "signin": "SignIn",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Transforming African Travel",
+    "description": "Hassle Free Local Payment Options with Lowest Prices!",
+    "bookNow": "Book your Trip now!",
+    "leaving": "Leaving From",
+    "going": "Going To",
+    "dateForm": "Date From",
+    "dateReturn": "Return Date",
+    "class": {
+      "class1": "Economy",
+      "class2": "Premium",
+      "class3": "Business",
+      "class4": "First"
+    },
+    "travaler-type": {
+      "type1": "Adult",
+      "type2": "Child"
+    },
+    "search": "Search"
+  },
+  "service": {
+    "heading": "Services offered",
+    "subHeading": "Explore Africa with Ease",
+    "description": "Book Flights, Hotels, Cars, Trains & Events, Whether for Work or Play.",
+    "offer": {
+      "tours": "Tours",
+      "events": "Events",
+      "lastminute": "Last minute",
+      "visa": "Visa"
+    },
+    "services": {
+      "concierge": {
+        "title": "Concierge",
+        "description": "Personalized assistance anytime, anywhere simplifying your lifestyle."
+      },
+      "moneyexchange": {
+        "title": "Money exchange",
+        "description": "Fast, secure, and reliable currency exchange for global transactions."
+      },
+      "esim": {
+        "title": "E-sim / Internet",
+        "description": "Stay connected globally with instant eSIM internet—fast, secure, reliable."
+      },
+      "luggage": {
+        "title": "Extra luggage",
+        "description": "Carry more with ease affordable extra luggage for your journey."
+      }
+    }
+  },
+  "payment-section": {
+    "title": "Enjoy Secure & Flexible Payment Options",
+    "description": "We make paying for your travel easy and stress free. Choose from a wide range of trusted local and international payment methods as well as debit/credit cards"
+  },
+  "news": {
+    "feature": "featured news",
+    "view": "View more",
+    "title": {
+      "line1": "All Your African Travel",
+      "line2": "needs in one platform!"
+    }
+  },
+  "ai-section": {
+    "coming-soon": "Coming Soon",
+    "heading": "WEEFLY TRAVEL AI",
+    "subHeading": "Your travel companion",
+    "button": "Know more"
+  },
+  "contactUs-section": {
+    "heading": "Be Part Of The African",
+    "subHeading": "Travel Tech Revolution",
+    "agent": "Become an Agent",
+    "vendor": "Register as Vendor",
+    "Partnership": "Apply for Partnership",
+    "contact-us": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "category": "Caregory",
+    "business": "Business",
+    "send": "Send",
+    "cancel": "Cancel"
+  },
+  "media-section": {
+    "heading": "Media",
+    "sideHeading": "Discover Cape Verde"
+  },
+  "story-section": {
+    "heading": "Our Story",
+    "subheading": "Born in Africa, Built for the World",
+    "description": "What started as a simple idea for making travel across Africa easier, smarter, and more connected, has now taken form into a powerful and comprehensive booking platform. We’re a team of passionate travelers, tech innovators, and local experts united by a shared vision: to unlock the beauty, culture, and opportunity within Africa through seamless and convenient travel experiences.",
+    "highlight": "This is more than a platform. It’s a movement. A celebration of Africa, built by Africans, for the world.",
+    "button": "Know more"
+  },
+  "subscribe": {
+    "title": "Subscribe for Exclusive Flight Deals & Travel Tips",
+    "description": "Join our travel community and be the first to know about flash sales, last-minute discounts, and insider tips to make your journey smoother.",
+    "button": "Subscribe now"
+  },
+  "footer": {
+    "quick": "Quick links",
+    "links": {
+      "link1": "Home",
+      "link2": "Flights",
+      "link3": "Hotels",
+      "link4": "Destinations",
+      "link5": "About us",
+      "link6": "Contact us"
+    },
+    "topDestination": "Top Destination",
+    "mobile": "Mobile Number",
+    "email": "Email Support",
+    "follow": "Follow us"
+  },
+  "contactus-page":{
+    "title":"Contact us",
+    "form":{
+      "title":"Customer Support",
+      "fullname":"Full Name",
+      "lastname":"Last Name",
+      "email":"Email",
+      "phone":"Phone Number",
+      "message":"Write your message",
+      "button":"Submit now"
+    },
+    "support":{
+      "title":"Customer Support",
+      "contact":"contact",
+      "email":"Email",
+      "Address":"Address"
+    }
+  },
+  "login":{
+    "title":"Login into your account",
+    "email":"Email address",
+    "password":"Password",
+    "forgotPassword":"Forgot Password",
+    "button":"Login now",
+    "google":"Login with Google",
+    "signup-content":"Don’t have an account?",
+    "signup":"Signup",
+    "register-content":"Are you a business?",
+    "register":"Register here"
+  },
+  "signup":{
+    "title":"Create an account",
+    "fields":{
+      "name":"Name",
+      "email":"Email address",
+      "phone":"Phone Number",
+      "password":"Password"
+    },
+    "button":"Signup",
+    "options":{
+      "login-content":"Already have an account?",
+      "login":"Login",
+       "register-content":"Are you a business?",
+    "register":"Register here"
+    }
+  },
+  "forgotPassword":{
+    "title":"Forgot password?",
+    "description":"Enter your Registered Email address and we’ll send a link to reset password",
+    "email":"Email address",
+    "send":"send Code",
+    "resend-msg":"Didn't receive code ?",
+    "resend":"Resend"
+  },
+  "search":{
+    "leaving": "Leaving From",
+    "going": "Going To",
+    "dateForm": "Date From",
+    "dateReturn": "Return Date",
+    "class": {
+      "class1": "Economy",
+      "class2": "Premium",
+      "class3": "Business",
+      "class4": "First"
+    },
+    "travaler-type": {
+      "type1": "Adult",
+      "type2": "Child"
+    },
+    "search": "Search"
+  },
+  "filter":{
+    "filter":"Filter",
+    "class": {
+      "title":"Preffered class",
+      "class1": "Economy",
+      "class2": "Premium",
+      "class3": "Business",
+      "class4": "First"
+    },
+    "airlines":"Airlines",
+    "leaving-at":"Leaving at",
+    "arrival-to":"Arrival to",
+    "stop":{
+      "title":"Stops",
+      "non-stop":"Non-Stop",
+      "stop":"stop"
+    }
+  },
+  "recently":{
+    "title":"Recently booked",
+    "departure":"Departure Flight",
+    "reschedule":"Reschedule"
+  },
+  "complete-your-booking":"Complte your booking",
+"back":"Back",
+  "stages":{
+    "review-your-booking":"Review your booking",
+  "traveller-details":"Traveller Details",
+  "extras":"Extras",
+  "payment":"Payment"
+  },
+  "booking-card":{
+    "leaving-from":"Leaving from",
+    "returning-from":"Returning From",
+    "stops":"stops",
+    "duration":"Duration",
+    "Flight-details":"Flight Details",
+    "price-details":"price Details",
+    "policy":"Policy",
+    "refund":"Refund",
+    "reschedule":"Reschedule",
+    "book-now":"Book now"
+  },
+  "continue-booking":"Continue booking",
+  "traveller-details":{
+    "title":"Traveller Details",
+    "form":{
+      "fullname":"Full Name",
+      "lastname":"Last Name",
+      "nationality":"Nationality",
+      "email":"Email",
+      "phone":"Phone Number",
+      "passport-number":"Passport Number",
+      "passport-issuing-country":"Passport issuing country",
+      "passport-entry":"Passport entry",
+      "visa-details":"Visa details",
+      "cancellation-policy":"Cancellation policy"
+    },
+    "save-details":{
+      "title":"Save your details!",
+      "description":"Use your contact details to create an account and speed up future bookings. (We won’t save your payment information.)",
+      "term":"Save my detail so I can book faster next time."
+    }
+  },
+  "booking-details":{
+    "title":"Booking Details",
+    "departure":"Departure Flight",
+    "landing":"Leading Flight",
+    "policy":"Policy",
+    "refund":"Refund",
+    "reschedule":"Reschedule"
+  },
+  "seats":{
+    "title":"Seats",
+    "seatFare":"Sear Fare",
+    "adult":"Adult",
+    "child":"Child",
+    "totalFare":"Total Fare",
+    "type":{
+      "title":"Seat type",
+      "free":"Free",
+      "non-reclining":"Non-Reclining",
+      "exit-seats":"Exit Seats"
+    }
+  },
+  "meals":{
+    "title":"Meals",
+    "vegMeal":"Veg Meal",
+    "nonVegMeal":"Non-Veg Meal",
+    "kidsMeal":"Kids Meal",
+    "specialMeal":"Special Meal"
+  },
+  "luggages":{
+    "title":"Extra luggage",
+    "luggage":"Luggage"
+  },
+"skip-extra":"Skip extra",
+"summary":{
+  "title":"Price Summary",
+  "adult":"Adult",
+  "totalTax":"Total Tax",
+  "otherCharged":"Other Charged",
+  "total":"Total"
+},
+"payment-metheds":{
+  "upi":"UPI",
+  "debit-creditCard":"Debit & credit cards",
+  "netBanking":"Net Banking",
+  "wallet":"Wallet",
+  "emi":"EMI",
+  "payLater":"Pay Later"
+},
+"paytime":{
+    "title":"When would you like to pay?",
+    "payNow":"Pay now",
+    "payLater":"Pay Later"
+  },
+  "profile":{
+    "fullname":"Full Name",
+    "dob": "DOB",
+    "gender":"Gender",
+    "passportNo":"Passport no",
+    "fullAddress":"Full Address",
+    "pinCode":"Pin Code"
+  },
+  "profile-offer":{
+    "title":"Get trip inspiration and offers",
+    "description":"Receive deals, tips, and insights from Expedia",
+    "button":"Get now"
+  },
+  "options":{
+    "profile":"Profile",
+    "security-settings":"Security & Settings",
+    "help-feedback":"Help & Feedback",
+    "logout":"Logout"
+  }
+}
