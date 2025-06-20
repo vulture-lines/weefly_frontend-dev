@@ -1,4 +1,4 @@
-name: Deploy Weefly Frontend
+name: Deploy Weefly_Frontend
 
 on:
   push:
